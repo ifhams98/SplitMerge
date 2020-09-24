@@ -8,7 +8,7 @@ pipeline {
         }
     stage('Test API Rest'){
 		steps{
-            		sh 'newman run /home/ubuntu/apis_test/virtualTradeshow.postman_collection.json -e /home/ubuntu/apis_test/env1.postman_environment.json'
+            		sh 'newman run /home/ubuntu/apis_test/TestCollection.postman_collection.json -e /home/ubuntu/apis_test/test_env.json'
 		}
 	}
     
