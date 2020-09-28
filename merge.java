@@ -11,6 +11,7 @@ import java.util.Arrays;
  *
  * @author Ifham Shahid
  */
+//This code merges the files!
 public class merge {
     public static void mergeFiles( java.util.List<File> files, File into)
     throws IOException {
