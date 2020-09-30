@@ -12,6 +12,8 @@ import java.util.Arrays;
  * @author Ifham Shahid
  */
 //This code merges the files!
+//new comment added 30-9-2020 16:32
+
 public class merge {
     public static void mergeFiles( java.util.List<File> files, File into)
     throws IOException {
