@@ -13,8 +13,6 @@ import java.util.Arrays;
  */
 //This code merges the files!
 //new comment added 30-9-2020 16:32
-
-//This is a test comments, pls do not remove it.
 //eyes chico, they never lie-Scarface
 
 public class merge {
